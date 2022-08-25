@@ -74,7 +74,7 @@ export function Video(props: VideoProps) {
               className="p-4 text-sm bg-green-800 flex ites-center dounded font-bold uppercase gap-2 justify-center hover:bg-green-700 transition-colors"
             >
               <DiscordLogo size={24} />
-              Comunidade do Discord
+              Comunidade do Discordaa
             </a>
 
             <a
